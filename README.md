@@ -3,7 +3,8 @@
 My name is Shankarcharya, and I'm a Leading Bioinformatics scientist and Mentor with extensive experience in developing methods and computational
 pipeline for analyzing Genomics, Transcriptomics and other next generation NGS Datasets.
 
-Please download my Resume: https://github.com/shankaracharya/shankaracharya/blob/main/Shankaracharya_resume_2025_Oct.pdf 
+Please download my Resume:  https://github.com/user-attachments/files/25524577/Shankaracharya_resume_Feb_2026_New.pdf
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
